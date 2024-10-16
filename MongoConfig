@@ -1,0 +1,5 @@
+config = {
+        "URI":"mongodb+srv://juliomancillaivandavid:LrDUdOvQTsK8TZkd@cluster0.a3fgk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "DATABASE": "Trabajo2",
+        "COLLECTION":"Trabajo3"
+}
